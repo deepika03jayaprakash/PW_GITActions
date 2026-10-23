@@ -1,5 +1,5 @@
 import { test } from "@playwright/test"; //Import the Playwright test packages
-//Commiting in new branch and merging with main branch - Git action check
+//Commiting in new branch and merging with main branch - Git action fetch check
 
 test('dropDown_Cssselector_Validation', async ({ page }) => { //Using page fixer in this test method
 
